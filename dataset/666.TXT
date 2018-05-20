@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO>666</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.com/arrestohet-mashtruesja-e-prishtines/</URL>
+<TITLE>Arrestohet mashtruesja e Prishtinës</TITLE>
+<TEXT>Sipas policisë, mbështetur në rezultate e para të hetimit është ngritur dyshimi i bazuar se këto mashtrime kanë ndodhur në vazhdimësi për një periudhë  të gjatë kohore dhe dyshohet se numri i personave të mashtruar nga e dyshuara arrin deri në 106 qytetarë të ndryshëm, një numër i  vogël prej të cilëve,  kanë raportuar se janë mashtruar nga po i njëjti person.
+Pas arrestimit dhe marrjes së autorizimit nga ana e prokurorit, e dyshuara është intervistuar dhe më pas  e njëjta, gjithashtu me autorizim të prokurorit është liruar në procedurë të rregullt.</TEXT>
+<DATE>2017-03-22</DATE> 
+</DOC>

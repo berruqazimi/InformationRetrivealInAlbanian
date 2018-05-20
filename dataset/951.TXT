@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO>951</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.com/samsung-nje-perditesim-qe-bllokon-ngarkimin-e-baterise/</URL>
+<TITLE>Samsung me një përditësim që bllokon ngarkimin e baterisë</TITLE>
+<TEXT>Ky i fundit vazhdon të jetë një hije për Samsung por jo për shumë kohë. Ditën e Premte gjigandi i elektronikës tha se do ti japë fund njëherë e mirë kësaj sage me një përditësim sigurie i cili bllokon ngarkimin e baterisë së telefonit.
+Edhe pse ka patur raportime se Samsung ka arritur të nxjerrë nga qarkullimi 96% të Note 7-ës, disa përdorues akoma tregohen kokëfortë. E kjo nuk është surprizë duke pasur në konsideratë vlerësimet e larta që mori telefoni.
+Në përpjekje për ta larguar nga qarkullimi njëherë e mirë, Samsung lançoi një sërë fushatash ku premtonte zëvendësimin e tij falas.
+Spekulimet e para se Samsung do të bënte të padopërdorshëm telefonin përmes një përditësimi filluan që në Shtator dhe u konfirmuan në Dhjetor. Tashmë kompania shpreson se përditësimi i sigurisë do mbylljë njëherë e mirë këtë kapitull.</TEXT>
+<DATE>2017-03-27</DATE> 
+</DOC>

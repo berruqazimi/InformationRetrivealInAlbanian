@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO>665</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.com/live-blerand-stavileci-debat-qytetaret-per-termocentralin-kosova-e-re-video/</URL>
+<TITLE>LIVE: Blerand Stavileci debat me qytetarët për Termocentralin “Kosova e Re”</TITLE>
+<TEXT>Debati po zhvillohet në amfiteatrin e Klan Kosovës në Zonën Industriale.
+Të pranishëm janë edhe bartës të projektit “Kosova e Re”, përfaqësues të Odave Ekonomike, ekspertë të energjisë, përfaqësues të korporatave të energjisë, studentë, akademikë.</TEXT>
+<DATE>2017-03-22</DATE> 
+</DOC>

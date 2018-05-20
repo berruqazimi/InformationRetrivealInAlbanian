@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO>725</DOCNO>
+<SOURCE>Tetova1</SOURCE>
+<URL>http://www.tetova1.mk/2017/03/23/ja-arsyeja-e-mosfunksionimit-te-rrjetit-telekomit/</URL>
+<TITLE>Ja arsyeja e mosfunksionimit të rrjetit Telekomit</TITLE>
+<TEXT>Sipas kompanisë Telekom ndërprerja e rrjetit të këtij operatori ka ndodhur për arsye se një kompani ka dëmtuar kabllot optik derisa ka hapur kanal, trensmeton Tetova1.</TEXT>
+<DATE>2017-03-23</DATE> 
+</DOC>

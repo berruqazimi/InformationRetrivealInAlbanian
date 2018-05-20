@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO>1247</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.net/ja-kur-del-neshitje-samsung-galaxy-s9/</URL>
+<TITLE>Ja kur del nëshitje Samsung Galaxy S9</TITLE>
+<TEXT>Duke folur për The Korea Herald, një zëdhënës i Samsung ka thënë me sa duket se “nuk ka gjasa” se do të nxjerr në pah Galaxy S9 gjatë CES.
+
+Ky formulim është i çuditshëm, duke sugjeruar se ndoshta kompania nuk ka vendosur me siguri, por nuk duket sikur ka shumë shanse që lansimi i janarit të ndodhë.
+
+Lajmi nuk është aq i çuditshëm, pasi CES nuk është zakonisht një shfaqje e fokusuar në telefon, por është e sigurtë se do të zhgënjejë të gjithë ata që presin me padurim telefonin e ri të Samsung.
+
+Samsung Galaxy S9 Plus ka të ngjarë të paraqitet bashkë me Galaxy S9.</TEXT>
+<DATE>2017-12-10</DATE> 
+</DOC>

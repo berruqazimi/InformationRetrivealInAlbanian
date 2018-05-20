@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO>1325</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.net/parashikimi-i-motit-per-pese-ditet-e-ardhshme-6/</URL>
+<TITLE>Parashikimi i motit për pesë ditët e ardhshme</TITLE>
+<TEXT>Në këto kushte sipas IHK-se do të mbajë mot me diell dhe pjesërisht i vranët. Vranësirat të mërkurën kanë mundësi që nëpër territore të caktuara të shoqërohen me riga lokale shiu.
+
+Temperaturat minimale do të lëvizin ndërmjet -3 deri në 2 gradë Celsius, ndërsa maksimalet e ditës parashihet të lëvizin ndërmjet 6-11 gradë Celsius.
+
+Do të fryjë erë kryesisht nga juglindja me shpejtësi 1-6m/s.
+
+Fundjava parashihet të ketë kushte tjera meteorologjike e përcjellë me reshje shiu dhe bore.</TEXT>
+<DATE>2017-12-10</DATE> 
+</DOC>

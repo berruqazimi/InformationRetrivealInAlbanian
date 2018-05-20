@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO>765</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.com/ne-peje-treni-godet-veturen-nje-person-lenduar/</URL>
+<TITLE>Në Pejë treni godet veturën, një person i lënduar</TITLE>
+<TEXT>Aksidenti ka ndodhur në fshatin Pavlan të komunës së Pejës pak para orës 13:00. Lajmin për Klan Kosovën e ka konfirmuar zëdhënësi i policisë për rajonin e Pejës, Xhevat Ibraj.
+“Një person është i lënduar, ndërsa ndihma e parë i është dhënë në vendin e ngjarjes. Lëndimet i ka në trup dhe në kokë, por nga informacionet e para që kemi ai është jashtë rrezikut për jetë”, ka thënë Ibraj.
+“Hetuesit e policisë janë në vend të ngjarjes dhe pas marrjes së të gjitha informacioneve detajet do të përcjellën për media përmes komunikatës nga policia”.</TEXT>
+<DATE>2017-03-23</DATE> 
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO>969</DOCNO>
+<SOURCE>Telegrafi</SOURCE>
+<URL>http://telegrafi.com/ka-filluar-gara-spring17-challenge-per-femije-ne-robotike-dhe-matematike/</URL>
+<TITLE>Ka filluar gara Spring’17 Challenge për fëmijë në robotikë dhe matematikë</TITLE>
+<TEXT>Në hapësirat e Fakultetit të Maqinerisë në Shkup ka filluar Spring’17 Challenge gara për robotikë dhe matematikë, që organizohet nga Stem Akademia në Shkup, përcjell Telegrafi Maqedoni.
+Aktiviteti mbështetet nga Fakulteti i Maqinerisë, ndërkaq në garë marrin pjesë rreth 60 fëmijë të moshës 6 deri 14 vjeçare, përmes punës ekipore, të gatshëm për të treguar njohuritë e tyre në sferën e robotikës, matematikës dhe zgjidhjen e problemeve.</TEXT>
+<DATE>2017-03-27</DATE> 
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO>211</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.com/reuters-shba-dhe-nato-shuplake-ne-fytyre-kosoves-per-ushtrine-2/</URL>
+<TITLE>Reuters: SHBA dhe NATO shuplakë në fytyrë Kosovës për ushtrinë</TITLE>
+<TEXT>Reuters duke njoftuar për vendimin e Kryesisë së Kuvendit për të proceduar me votimin e ushtrisë ka shkruar për reagimin e menjëhershëm të Sekretarit të Përgjithshëm të NATO-s, Jens Stoltenberg, kundër hapave të tillë.
+Reuters rikujton se NATO nuk ka plane për t’u larguar nga Kosova.</TEXT>
+<DATE>2017-03-09</DATE> 
+</DOC>

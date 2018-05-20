@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO>1252</DOCNO>
+<SOURCE>Telegrafi</SOURCE>
+<URL>https://telegrafi.com/anonymous-albania-merr-drejtesine-ne-duart-e-veta-sulme-kibernetike-video/</URL>
+<TITLE>“Anonymous Albania” merr drejtësinë në duart e veta, me sulme kibernetike (Video)</TITLE>
+<TEXT>dhe pse ka vetëm dy vite që është themeluar, grupi prej dhjetë anëtarësh “Anonymous Albania”, ka vendosur të marrë drejtësinë në duart e veta në mënyrë që përmes sulmeve kibernetike të dëshmojnë se askush nuk mund t’i diskriminojë shqiptarët.
+
+Anëtari i “Anonymous Albania”, i njohur me nofkën “Astra”, në një intervistë për KosovaPress rrëfen se si kanë arritur të realizojnë një sërë sulmesh ndaj atyre që kërcënojnë shqiptarët.
+
+
+“Kosova nuk e ka marrë vet përsipër këtë gjë, që të negocioj vet me palët serbe që t’i përmirësoj marrëdhëniet, kështu që ne e kemi marrë në dorë drejtësinë që t’i sulmojmë ata dhe t’iu tregojmë që nuk duhet jemi të shtypur, të mos diskriminojnë shqiptarët, sidomos në Luginën e Preshevës dhe në Bujanoc”, tha ai.
+
+Grupi “Anonymous Albania”, është themeluar në vitin 2016, ndërsa “Astra” shpjegon se si ka ardhur ideja e formimit të grupit të tyre, teksa rrëfen edhe motivin e sulmeve kibernetike që ata bëjnë.
+
+“Grupi jonë është themeluar në vitin 2016, por punën më aktive e ka pasur në vitin 2017. Ne kryesisht sulmojmë web-faqe të Serbisë, Rusisë, Greqisë dhe Maqedonisë. Arsyeja kryesore e këtyre sulmeve janë sepse në tërë kohën kemi provokime nga pala serbe, si nga Qeveria, po ashtu edhe nga hakerët e tjerë serbë, rusë, maqedonasë dhe grekë. Arsyeja kryesore e sulmeve që bëjmë është të ndalojmë shtypjen e shqiptarëve kudo që janë dhe duam t’iu tregojë shqiptarëve se në i përkrahim ata”, tha ai.
+
+“Anonymous Albania” sulmon kryesisht atëherë kur marrin provokime nga hakerë të vendeve të rajonit, por sipas “Astras”, sulme të tilla kibernetike ka edhe për shënimin e datave historike të shqiptarëve.
+
+E dëmi më i madh që ky grup ka shkaktuar, thotë të jetë bllokimi i web-faqes së Ministrisë së Financave të Greqisë, më 28 nëntor të këtij viti.
+
+“Sulmin e bëjmë më së shpeshti sa herë që marrim provokime nga pala serbe, ruse apo greke. Por edhe në datat historike shqiptare, si më 28-29 nëntor, ku janë realizuar disa sulme që janë më të suksesshme për Anonymous Albania. Sulmet më të mëdha që i bëjmë janë sulme që e kalojnë shifrën e mijëra dollarëve, ndoshta mbi 20-30 mijë dollarë. Dëmi më i madh ka qenë kur kemi bllokuar Ministrinë e Financave të Greqisë, ku ka qenë joaktive përafërsisht 10 orë, dhe është pamundësuar aksesi në atë web-server që e kemi bllokuar”, tha ai për KosovaPress.
+
+
+Vetëdijesimi i Policisë së Shqipërisë për të marrë masa ndaj “banditëve” që qëndrojnë në pushtet, “Astra” thotë të ketë qenë synimi kryesor i sulmit të web-faqes zyrtare të policisë, rreth 5 muaj më parë, teksa thekson se për këtë janë nën hetime nga pala shqiptare. \
+
+“Sulmi ndaj Policisë së Shqipërisë është bërë rreth 5 muaj më parë. Arsyeja ka qenë sepse kriminelët, banditët qëndrojnë në pushtet. Dhe policia nuk ka ndërmarrë asnjë masë kundër këtyre, kështu që vendosëm ne të marrim masa. Kështu kemi bllokuar faqen zyrtare të policisë së shtetit, ku e kemi bërë një ‘dëpejsmënt’ që do të thotë të vendosim llogon tonë në faqe të tyre”, u shpreh ai.
+
+Anëtari i “Anonymous Albania” thekson se paraprakisht është njoftuar policia për të arrestuar kriminelët, porse këta të fundit nuk kanë ndërmarrë asgjë, me ç’rast grupi ka vendosur të tregojë fuqinë e vet, duke i marrë gjendjen civile këtyre të fundit.
+
+“Kur e kemi lajmëruar policinë që t’i arrestojë kriminelët që gjenden në pushtet, ata nuk kanë marrë asnjë masë dhe po ashtu na kanë kërcënuar dhe kështu kemi vendosur që t’iu tregojmë fuqinë tonë atyre duke iu marrë gjendjen civile”, theksoi ai.
+
+Tentativat për t’i mbrojtur web-faqet e institucioneve të Kosovës nga haker të vendeve të rajonit, sipas Astras kanë qenë të shumta, porse kanë rezultuar me përgjigje negative. Madje, ai thotë se faqet zyrtare shtetërore ende kanë defekte dhe për këtë nevojitet implementimi i ligjit për siguri kibernetike.
+
+“Ne vullnetarisht i kemi ndihmuar ata. Edhe pse ligji për siguri kibernetike në Kosovë nuk është ende i implementuar, mendoj se duhet të realizohet shpejt sepse në Holandë për herë të parë u miratua ky ligj, që i lejon secilit ‘white hat hacker’ ose ndryshe haker i bardhë, që të testojë sigurinë në web faqe shtetërore dhe ta denoncojë atë që të përmirësohet”, u shpreh ai.
+
+Ai tha se më parë janë marrë me degë të tjera të teknologjisë, përkatësisht rrjete dhe programim.
+
+Krejt në fund, anëtari i “Anonymous Albania”, “Astra”, realizoi një sulm ndaj faqes zyrtare të Qeverisë së Maqedonisë, e cila mbeti e bllokuar për disa orë.</TEXT>
+<DATE>2017-12-10</DATE> 
+</DOC>

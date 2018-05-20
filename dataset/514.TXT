@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO>514</DOCNO>
+<SOURCE>Telegrafi</SOURCE>
+<URL>http://telegrafi.com/trump-demokratet-kane-shpikur-akuzat-per-perzierjen-e-rusise-ne-zgjedhje/</URL>
+<TITLE>Trump: Demokratët kanë shpikur akuzat për përzierjen e Rusisë në zgjedhje</TITLE>
+<TEXT>Trump publikoi komentet e tij në Twitter vetëm disa orë para dëshmisë së drejtorit të FBI-së James Comey dhe drejtorit të Agjencisë për siguri nacionale Michael Rodgers para komitetit të Kongresit për akuzat ruse për hakim dhe nëse kanë ekzistuar lidhje ndërmjet Moskës dhe kampanjës së Trump.
+“Demokratët kanë shpikur storien ruse si përgjigje për kampanjën dëshpëruese. Tregimi i vërtetë të cilin duhet ta hetojë Kongresi, FBI dhe të tjerët janë rrjedhja e informacioneve të besueshme. Duhet ta gjejmë spiunin menjëherë”, ka thënë Trump.</TEXT>
+<DATE>2017-03-20</DATE> 
+</DOC>

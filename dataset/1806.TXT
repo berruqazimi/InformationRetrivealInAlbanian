@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>1806</DOCNO>
+<SOURCE>Tetova1</SOURCE>
+<URL>http://www.tetova1.mk/2017/12/14/norvegjia-e-para-ne-bote-per-shpejtesine-e-internetit-singapori-ne-internetin-fiks/</URL>
+<TITLE>Norvegjia e para në botë për shpejtësinë e internetit, Singapori në internetin fiks</TITLE>
+<TEXT>Sipas raportit të ‘Speedtest Global Index’, e cila ofrohet nga ‘Ookla’, kompani në testimin e cilësisë dhe shpejtësisë së internetit mobil dhe atij fiks, në muajin nëntor 2017 në rang botëror Norvegjia është vendi me shpejtësinë më të lartë mesatare të internetit mobil prej 62.66 Mbps, ndërsa Singapori është vendi me shpejtësinë më të lartë mesatare të internetit fiks prej 153.85 Mbps, përcjell Telegrafi.
+
+Në këtë raport nuk është i përfshirë Kosova, por të gjitha vendet fqinje rënditen më mirë se Shqipëria në të dy sektorët. Konkretisht në internetin mobil Serbia ka një shpejtësi mesatare interneti prej 30.55 Mbps, Greqia 34.22 Mbps, Mali i Zi prej 35.04 Mbps dhe Maqedonia 34.58 Mbps.
+
+Në internetin fiks, Serbia ka një shpejtësi mesatare prej 24.58 Mbps, Greqia prej 14.89 Mbps, Mali i Zi 23.12 Mbps dhe Maqedonia 20.98 Mbps.
+
+Në internetin mobil, Shqipëria renditet e 46-ta me shpejtësi prej 25.72 Mbps, ndërsa në internetin fiks renditet në vendin e 96 me shpejtësi mesatare prej 12.45 Mbps.
+</TEXT>
+<DATE>2017-12-14</DATE> 
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO>990</DOCNO>
+<SOURCE>TetovaSot</SOURCE>
+<URL>http://www.tetovasot.com/2017/03/%E2%80%8Bwhatsapp-i-sduhet-te-jete-mburoje-e-terroristeve/</URL>
+<TITLE>​WhatsApp-i s’duhet të jetë mburojë e terroristëve!</TITLE>
+<TEXT>Sekretarja e Brendshme britanike, Amber Rudd është shprehur se kurrsesi nuk duhet të ekzistojë ndonjë vend ku terroristët të mund të fshihen, ndërsa ka kërkuar gjithashtu që shërbimet sekrete të kenë qasje në shërbimet ‘sekretive’ të mesazheve.
+Deklarata vjen pasi u mësua se terroristi Khalid Masood, autor i sulmit të së mërkurës ndaj Parlamentit britanik, ka komunikuar përmes aplikacionit “WhatsApp” dy minuta përpara sulmit në “Westminster” që shkaktoi 4 viktima.
+Policia ende nuk mundet të dëshifrojnë mesazhet e tij, për shkak të opsionit për kodimin e tyre nga dërguesi te marrësi. Por udhëheqësi laburist, Jeremy Corbyn thotë se tashmë ekziston një balancë mes “të drejtës për të ditur” dhe “të drejtës për privatësi”
+Amber Rudd nuk e pranon këtë dhe thotë se do t’u kërkojë firmave teknologjike të punojnë bashkë me shërbimet sekrete kur të takohet me ta gjatë kësaj jave. “Duhet të sigurohemi se shërbimet tona sekrete të kenë aftësitë dhe mundësitë të futen në brendësi të këtyre situatave, përfshi këtu edhe brenda WhatsApp-it të enkriptuar”, tha Rudd për një program të BBC One.
+Enkriptimi është një metodë e kalimit të të dhënave kompjuterike në mënyrë të çrregullt, duke bërë të mundur që mesazhi të lexohet vetëm nga dërguesi te marrësi, por pa i mundësuar dikujt tjetër ta lexojë atë. Tashmë të gjitha mesazhet që dërgohen në “WhatsApp” janë të koduara dhe nuk mund të lexohen nga askush tjetër, përfshi këtu edhe autoritetet ligjzbatuese. Edhe kompania e “Facebook”-ut, që numëron mbi një miliard përdorues anembanë botës, ka thënë se mbrojtja e komunikimeve private ka qenë një nga shtyllat e funksionimit të saj.</TEXT>
+<DATE>2017-03-27</DATE> 
+</DOC>

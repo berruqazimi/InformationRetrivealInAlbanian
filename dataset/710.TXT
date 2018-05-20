@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO>710</DOCNO>
+<SOURCE>GazetaExpress</SOURCE>
+<URL>http://www.gazetaexpress.com/lajme-nga-maqedonia/rritet-numri-i-subjekteve-afariste-344945/</URL>
+<TITLE>Rritet numri i subjekteve afariste</TITLE>
+<TEXT>Numri më i madh i subjekteve afariste është në sektorin e industrisë përpunuese, në ndërtimari dhe në sektorin e veprimtarive profesioniste, shkencore dhe teknike.
+Përfaqësim më të vogël kanë sektori i furnizimit me energji elektrike, gaz, avull dhe kondicionerë dhe miniera për nxjerrjen e gurit.</TEXT>
+<DATE>2017-03-23</DATE> 
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO>1616</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.net/temperaturat-e-uleta-ja-ku-ngrohet-ky-lemoshkerkues/</URL>
+<TITLE>Temperaturat e ulëta, ja ku ngrohet ky lëmoshkërkues!</TITLE>
+<TEXT>E temperaturat e ulëta në vend kanë bërë që ai të nxehtë në pjesën e prapme të autobusit, aty ky lirohet gazi, përcjell ORAinfo.
+
+</TEXT>
+<DATE>2017-12-13</DATE> 
+</DOC>

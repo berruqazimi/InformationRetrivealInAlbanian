@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>377</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.com/ja-vendet-qe-te-perballen-reduktime-energjetike/</URL>
+<TITLE>Ja vendet që do të përballen me reduktime energjetike</TITLE>
+<TEXT>Ky është orari:
+Ky është orari i reduktimeve me energji elektrike në Kosovë
+Mirëmbajte të planifikuar
+-Nuk ka
+Ndërprerje me kërkesë të KOSTT-it
+-Nuk ka
+Ndërprerje me kërkesë të palëve të treta
+Më 16.03.2017 në TS 35/10 kV Kaçaniku do të shkyçet: Dalja 10 kV Drejtimi Veskopoja (Kodi:40043001) prej orës 11:00 deri në orën 14:00.
+Gjatë kohës sa do të zgjasin punimet pa furnizim me energji elektrike do të mbesin: Voskopoja, Trupaj, Trimor, Bicaj (Biqevc), Pallosh (Biqevc), Nikaj, Tushaj – Soponica,Malsi (Malzez), Vatë, Nikaj. Arsyeja e ndërprerjes: dislokimi i shtyllës 10/0.4 kV.
+Ndërprerje e domosdoshme për punimet për sigurinë e sistemit
+Më 16.03.2017 në TS 35/10 kV Ferizaj ll do të shkyçet: Dalja 10 kV Kosovapetroli (Kodi:40041003) prej orës 09:30 deri në orën 11:00.
+Gjatë kohës sa do të zgjasin punimet pa furnizim me energji elektrike do të mbesin: Talinovci i Jerlive, Muhovci, Prelezi i Jerlive dhe Prelezi I Muhaxherëve.
+Arsyeja e ndërprerjes: punime në rrjet.
+Më 16.03.2017 në TS 110/35/10 kV Bibaj do të shkyçet: Dalja 10 kV Rexhep Bislimi (Kodi:40000003) prej orës 09:15 deri në orën 09:30 dhe prej orës 15:45 deri në orën 16:00.
+Gjatë kohës sa do të zgjasin punimet pa furnizim me energji elektrike do të mbesin rrugët: Rexhep Bislimi, Hasan Prishtina, Pylltaria, Varoshit dhe Kisha Katolike. Arsyeja e ndërprerjes: ndërrimi i ormanit të tensionit të ulët në TS 10/04 kV.
+Pejë
+Mirëmbajte të planifikuar
+-Nuk ka
+Ndërprerje me kërkesë të KOSTT-it
+-Nuk ka
+Ndërprerje me kërkesë të palëve të treta
+-Nuk ka
+Ndërprerje e domosdoshme për punimet për sigurinë e sistemit
+Më 16.03.2017 në TS 35/10 kV Peja 1 do të shkyçet: Dalja 10 kV Vitomenica (Kodi:50000010) prej orës 15:00 deri në orën 17:00. Gjatë kohës sa do të zgjasin punimet pa furnizim me energji elektrike do të mbesin: Fshati i Ri, Instituti Bujqesor, Lagjja Qemanska Vitomiricë, Riki Petrolli, Baliqët, Farma, Domi, Gjeshoviqët, Ozdrimi, Dubova e Madhe, Fierza dhe Dubova e Vogël.</TEXT>
+<DATE>2017-03-14</DATE> 
+</DOC>

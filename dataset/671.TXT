@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO>671</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.com/mos-e-perdorni-iphone-ne-banjo-ja-perse/</URL>
+<TITLE>Mos e përdorni iPhone-in në banjo, ja përse</TITLE>
+<TEXT>Vdekja e Richard Bull, 32 vjeçar, ndodhi kur iPhone i tij ra në ujë, dhe kjo ishte aksidentale, tha mjeku ligjor Sean Cummings.
+Ai cili tha se do t’i dërgonte një raport edhe fabrikuesit të këtij telefoni, Apple, që t’i paralajmërojë për rreziqet, shkruan The Guardian.
+“Këto duken si pajisje të padëmshme, por mund të jenë po aq të rrezikshme si tharëset e flokëve në banjo. Ata duhet t’u ngjesin paralajmërime”, i tha ai jurisë.
+“Ky ështe një aksident tragjik dhe unë nuk kam arsye që fare ta besoj se ka mundur të ndodhë dicka tjeter përpos se ka ka qenë tërësisht aksidentale”, kishte shtuar Cummings.</TEXT>
+<DATE>2017-03-22</DATE> 
+</DOC>

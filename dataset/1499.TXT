@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO>1499</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.net/iphonet-e-vjeter-pershpejtohen-me-nderrimi-i-baterise/</URL>
+<TITLE>iPhonët e vjetër përshpejtohen me ndërrimi i baterisë</TITLE>
+<TEXT>Sipas disa testimeve të një përdoruesit të Redditit, bateria ka ndikim të madh tek iPhonët e vjetër, pasi shpejtësia e procesorit ngadalësohet për të ruajtur jetëgjatësinë e baterisë.
+
+TeckFire ka zëvendësuar baterinë e iPhone 6S, i cili po punonte ngadalë. Dallimin në shpejtësi ai e kishte vërejtur te telefoni i vëllait të tij, që punonte më shpejtë.
+
+Sipas tij, Apple ngadalëson telefonat në momentin kur bateritë e tyre dobësohen dhe ndërrimi i saj mund të jetë një zgjidhje për këtë problem.</TEXT>
+<DATE>2017-12-12</DATE> 
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO>669</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.com/e-dini-se-nga-vjen-zhurma-e-sinjalizuesit-video/</URL>
+<TITLE>A e dini se nga vjen zhurma e sinjalizuesit</TITLE>
+<TEXT>Por, shumë pak nga ta e dinë se nga vjen kjo zhurmë, transmeton koha.net.
+Ekipi i Jalopnik ka zbuluar këtë, duke çmontuar dy pjesë të ndryshme të stileve të sinjalizuesve, për të treguar se nga vije zëri që lëshojnë ata.
+Ata kanë çmontuar dy sistemet e ndryshme të sinjalizimit, nga dy vetura të ndryshme, transmeton koha.net.
+E para në modelin Jepp, siç shihet në video, është një pjesë metalike që bënë këtë zhurmë, nga prekja e metaleve.
+Ndërsa në Volkswagen Beetle, zhurma kontrollohet nga një çip çarku i integruar, që edhe bënë këtë zhurmë.</TEXT>
+<DATE>2017-03-22</DATE> 
+</DOC>

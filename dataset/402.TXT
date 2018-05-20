@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO>402</DOCNO>
+<SOURCE>GazetaExpress</SOURCE>
+<URL>http://www.gazetaexpress.com/lajme-nga-maqedonia/ne-sektorin-publik-te-punesuar-129-653-persona-341056/</URL>
+<TITLE>Në sektorin publik të punësuar 129.653 persona</TITLE>
+<TEXT>Raporti ofron analizë të strukturës së të dhënave për 110.311 të punësuar kurse për 19.342 persona të punësuar në ARM, MPB dhe Agjensinë për zbulim nuk ka të dhëna përshkak ndjeshmërisë së të dhënave.
+Nga numri i të punësuarve në sektorin publik, 59.111 janë të gjinisë femërore kurse 51.200 janë të gjinisë mashkullore. Mosha mesatare është 45.5 vjet. Sipas profesorit Borçe Davitkovski, i cili njëherazi është angazhuar për hartimin e Raportit, mbi 50% të buxhetit shtetëror ndahen për pagat e sektorit publik ndërsa ky raport duhet të shërbejë si bazë për qasje të reformave të ndryshme, përkatësisht risistemim të tepricës së të punësuarve apo largimeve nga puna.</TEXT>
+<DATE>2017-03-16</DATE> 
+</DOC>

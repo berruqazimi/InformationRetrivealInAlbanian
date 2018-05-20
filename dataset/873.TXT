@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO>873</DOCNO>
+<SOURCE>Telegrafi</SOURCE>
+<URL>http://telegrafi.com/banka-shteterore-gjermane-transferon-gabimisht-5-miliarde-euro/</URL>
+<TITLE>Banka shtetërore gjermane transferon gabimisht 5 miliardë euro</TITLE>
+<TEXT>“Transferta e gabuar u diktua dhe u korrigjua në çast dhe e gjithë shuma monetare është rikuperuar sërish”, konfirmoi banka gjermane KfW me seli në Frankfurt.
+Banka sqaroi se problemi ishte pasojë e “gabimit njerëzor” të një programuesi pa përvojë të KfW-së, pasi shkarkimi i të dhënave të gabuara bëri që programi i transferimit të pagesave të kryente në mënyrë automatike transferta të shumëfishta drejt katër bankave të tjera.
+Banka shprehu keqardhje për incidentin dhe ndërkohë njoftoi se “ka ndërmarrë një hetim të përgjithshëm të brendshëm dhe të jashtëm, në mënyrë që të sqarojë plotësisht shkaqet e këtij gabimi.”
+Kjo nuk është hera e parë që KfW-ja gjendet në një situatë të tillë. Në vitin 2008, në kulmin e krizës financiare, banka u bë objekt talljeje pasi i transferoi “Lehman Brothers” më shumë se 320 milionë euro , pikërisht në ditën kur banka amerikane e investimeve kishte aplikuar për familemtim.</TEXT>
+<DATE>2017-03-25</DATE> 
+</DOC>

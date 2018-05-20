@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO>846</DOCNO>
+<SOURCE>GazetaExpress</SOURCE>
+<URL>http://www.gazetaexpress.com/lajme-nga-maqedonia/todorov-ka-qasje-tek-te-gjithe-pacientt-346080/</URL>
+<TITLE>Todorov ka qasje tek të gjithë pacientët</TITLE>
+<TEXT>Projekti “Termini im” funksionon në të gjitha spitalet i lidhur përmes sistemit të centralizuar online, i cili lidhet drejtpërdrejtë me Drejtorinë për shëndetësi elektronike, e cila është e vendosur në Ministrinë e Shëndetësisë, e cila drejtohet nga Milan Arizankovski. Ai është përgjegjës për pjesën e caktimeve elektronike të terminëve për pacientët, ndërsa qasje në gjithë kartonët shëndetësorë ka edhe ministri resor Todorov.
+Në këtë mënyrë, Ministria e Shëndetësisë, Todorov dhe administruesit e tij, çdo ditë kanë qasje në kartonët shëndetësor dhe diagnozat e të sëmurëve, me këtë nëse kanë nevojë të kontrollojnë ndonjë dosie shëndetësore të dikujt, të kuptojnë nga çka vuan pacienti, çfarë barna pranon dhe në çfarë kontrolle duhet të shkojë, këtë e zgjidhin vetëm me një klikim në kompjuter, pas të cilit hapet e tërë historia shëndetësore me të gjitha të dhënat personale të pacientit.
+“Fokus” bisedoi me disa mjek në lidhje me këtë temë, ndërsa ata vlerësojnë se më e keqja e këtij projekti është se të sëmurët nuk kanë asnjë lloj intimiteti dhe mbrojte të të dhënave personale.</TEXT>
+<DATE>2017-03-25</DATE> 
+</DOC>

@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>1193</DOCNO>
+<SOURCE>Tetova1</SOURCE>
+<URL>http://www.tetova1.com/2017/12/06/microsoft-dhe-qualcomm-prezantuan-kompjuterat-windows-procesore-snapdragon/</URL>
+<TITLE>Microsoft dhe Qualcomm prezantuan kompjuterat Windows me procesorë Snapdragon</TITLE>
+<TEXT>Intel e ka humbur luftën në botën mobile e cila dominohet prej vitesh nga platforma Snapdragon e Qualcomm, por ky i fundit nuk do të kënaq me kaq.
+
+Ditën e Marte Qualcomm zyrtarisht nisi misionin e radhës, atë të dominimit të tregut të kompjuterave të rangut të ulët.
+
+Microsoft në bashkëpunim me Qualcomm thanë se një version i përshtatur i Windows do të funksionojë në procesorët mobil Snapdragon të Qualcomm.
+
+Pavarësisht se ka në treg tabletë 2n1 që funksionojnë me procesorë mobil, Intel duhet të shqetësohet sepse bëhet fjalë për një Windows 10 S e cila funksionon mëse miri në një procesor Snapdragon 835.
+
+Pajisjet e reja kanë trurin e një telefoni inteligjent por kapacitetet e baterive të laptopëve. Sigurisht që Qualcomm nuk do të tentojë asnjëherë të konkurrojë në performancë me procesorët e Intel, por në kursimin e energjisë dhe jetëgjatësinë e lartë të baterive.
+
+Për më tepër këto kompjter do të jenë gjithnjë të lidhur me internetin falë integrimit të modemeve LTE që ofrojnë procesorët e Qualcomm.
+
+Asus dhe HP prezantuan pajisjet e para “Windows on Qualcomm,” NovaGo dhe Envy X2 respektivisht. Sipas Qualcomm ato mund të mbajnë baterinë deri në 20 orë.
+
+I vetmi problemi është performanca me aplikacionet jo universale. Andaj programe si Google Chrome dhe Firefox do të reduktojnë performancën.
+
+Por Qualcomm beson se procesorët e tij mund ti rezistojnë mësë miri një performance në nivel kompjuteri ndërsa përmirëson më tutje jetëgjatësinë e baterisë.
+
+Premtimi i Qualcomm është një bateri me jetëgjatësi 18-24 orë, dhe është një iniciativë joshëse për shumë prodhues që aktualisht përdorin çipet Snapdragon në telefonët e tyre.
+
+Por a ja vlen sakrifikimi i performancës për një jetëgjatësi të shtuar baterie? /PCWorld Albanian
+</TEXT>
+<DATE>2017-12-10</DATE> 
+</DOC>

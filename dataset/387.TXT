@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO>387</DOCNO>
+<SOURCE>TetovaSot</SOURCE>
+<URL>http://www.tetovasot.com/2017/03/windows-vista-edhe-30-dite-jete/</URL>
+<TITLE>“Windows Vista”, edhe 30 ditë jetë</TITLE>
+<TEXT>Duke filluar nga data 11 prill “Microsoft” nuk do të mbështetë më “Windows Vista”: jo më përditësime sigurie, jo më suport dhe jo më përditësime teknike. Ashtu si me “Windows XP”, “Microsoft” do të veprojë edhe me “Windows Vistan” e cila ka mbushur 1 dekadë që nga lindja.
+Përtej këtij fakti, një sistem operativ i vjetër do të thotë rreziqe sigurie të cilat do të shtohen pas përfundimit të afatit. “Internet Explorer 9” në “Vista” ka skaduar dhe mungesa e përditësimeve të sigurisë do të thotë se problemet ekzistuese nuk do të adresohen më. Edhe sikur të keni të instaluar “Microsoft Essentials”, përditësimet do të ofrohen për një kohë të caktuar.
+Lajmi i mirë janë numri i pakët i përdoruesve të cilët duhet të largohen nga sistemi operativ. Sot Windows Vista ka 0.78% të tregut, afro gjysmën e “Windows 8”.
+Megjithatë “Vista” nuk ishte kurrë sistemi operativ që “Microsoft” kishte menduar. Problemet me Menaxhimin e Të Drejtave Digjitale dhe irritimet që shkaktonte Kontrolli i Ri i Aksesit të Përdoruesit bënë që shumë përdoruesit ta anashkalonin për të shkuar drejtpërdrejt tek Windows 7.
+Microsoft shpreson se çdo përdorues i ngelur në këtë sistemi operativ do të kalojë në ‘Windows 10″.</TEXT>
+<DATE>2017-03-14</DATE> 
+</DOC>

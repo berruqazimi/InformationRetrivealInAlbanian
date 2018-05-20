@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO>1123</DOCNO>
+<SOURCE>Telegrafi</SOURCE>
+<URL>https://telegrafi.com/hakohen-bitcoina-ne-vlere-mbi-60-milione-dollare-dyshohet-se-eshte-pune-e-brendshme-e-kompanise-foto/</URL>
+<TITLE>Hakohen Bitcoina në vlerë mbi 60 milionë dollarë, dyshohet se është punë e brendshme e kompanisë (Foto)</TITLE>
+<TEXT>Përdoruesit e këtij shërbimi kanë raportuar se mjetet e tyre janë transferuar nga adresat e tyre të brendshme të Bitcoinit në një adresë të vetme Bitcoini, e cila kontrollohet nga një palë e panjohur, shkruan Telegrafi.
+Kompania ka publikuar një deklaratë, ku ndër tjerash ka treguar se janë duke e hetuar rastin në bashkëpunim me autoritetet relevante.
+
+Por, skeptikët thonë se e tërë kjo ka mundur të jetë punë e brendshme, sepse, sipas tyre, aksionar i ‘Nicehash’ është Martin Skorjanc, babai i Matjaz Skorjanc, i cili ishte arrestuar më parë për krime kibernetike nga policia sllovene me ndihmën e FBI-së</TEXT>
+<DATE>2017-12-08</DATE> 
+</DOC>

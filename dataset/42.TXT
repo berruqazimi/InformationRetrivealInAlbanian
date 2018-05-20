@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO>42</DOCNO>
+<SOURCE>Telegrafi</SOURCE>
+<URL>http://telegrafi.com/dokumentari-bbc-se-per-familjen-jashari-video/</URL>
+<TITLE>Dokumentari i BBC-së për familjen Jashari</TITLE>
+<TEXT>Filmimi, i cili zgjat katër minuta ka protagoniste Besartën, e cila ësht e mbijetuara e vetme e familjes së Adem Jasharit.
+“Në mars të vitit 1998, forcat serbe sulmuan kompleksin e një figure të rëndësishme të Ushtrisë Çlirimtare të Kosovës , familjen e Jasharëve.
+Pas sulmit tre ditor, Adem Jashari, anëtar dhe themelues i UÇK-së dhe 50 anëtarë të familjes së tij u vranë”, shkruan BBC, transmeton Klan Kosova.</TEXT>
+<DATE>2017-03-06</DATE> 
+</DOC>

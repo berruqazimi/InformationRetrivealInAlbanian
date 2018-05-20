@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO>1250</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.net/kjo-eshte-makina-e-preferuar-e-te-forteve-shqiptare/</URL>
+<TITLE>Kjo është makina e preferuar e të fortëve shqiptarë</TITLE>
+<TEXT>Në rrugët e Tiranës dhe vendit shikon shpesh makina të tilla, të cilat “shqyejnë” rrugët sa herë që i japin gaz.
+
+Por kjo “bishë” e fundit që sapo ka dalë në treg, është një vepër arti e “Mercedes-it”.
+
+Kompania “Brabus” që merret me modifikimin e mjeteve ka “futur në dorë” edhe modelin “Mercedes-AMG G65”.</TEXT>
+<DATE>2017-12-10</DATE> 
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO>1091</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.net/gati-gjysma-e-prishtines-mbetet-pa-rrryme/</URL>
+<TITLE>Gati gjysma e Prishtinës mbetet pa rrrymë</TITLE>
+<TEXT>Banorët po ankohen që kanë mbetur pa energji për më shumë se gjashtë orë, në kohën kur në Kosovë po mbizotëron mot i ftohtë, shkruan Indeksonline.
+
+Këtë ndërprerje e ka sqaruar për Indeksonline, zëdhënësja e Operatorit të Sistemit të Transmetimit dhe Tregut (KOSTT), Zana Bajrami-Rama.
+
+Ajo ka thënë se ndërprerja e energjisë ka ndodhur për shkak të një lidhje të shkurtër në një transformator të rrymës.
+
+“Sot me 8 dhjetor 2017, në ora 04:25 ka ndodhur një lidhje e shkurtë në fushën e transformatorit TR 1 në Nënstacionin 110/35/10 kv Prishtina 1, gjë që ka ndikuar në dëmtimin e fushës së transformatorit. Si pasojë e kësaj, konsumatorët që furnizohen nga ana 10 kV e TR 1 kanë mbetur pa furnizim me energji elektrike, ndërsa ana 35 kV është kthyer në furnizim pas 90 minutave”, ka thënë Bajrami-Rama.
+
+Sipas saj, ekipet janë duke punuar në këtë drejtim, në mënyrë që të kthejnë furnizimin me energji në kryeqytet.
+
+“Ekipet e mirëmbajtjes të KOSTT sh.a dhe KEDS bashkërisht kanë dalë në terren dhe po punohet intenzivisht për sanimin e gjendjes. Një pjesë e konsumatorëve të anës 10 kV pritet që të kyçen së shpejti, ndërsa pjesa tjetër gjatë pasdites së sotme”, ka përfunduar Bajrami-Rama.</TEXT>
+<DATE>2017-12-08</DATE> 
+</DOC>

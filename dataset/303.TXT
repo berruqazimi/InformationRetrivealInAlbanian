@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO>303</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.com/qeveria-e-dorezon-ne-tri-ministri-projektligjin-per-fsk-ne/</URL>
+<TITLE>Qeveria e dorëzon në tri ministri projektligjin për FSK-në</TITLE>
+<TEXT>Siç njofton kumtesa e Qeverisë, në përputhje me procedurat e parapara, dikasteret kompetente të Qeverisë do të japin opinionet e tyre.
+Këto ministri do të përgatisin deklaratën e ndikimit buxhetor si dhe deklaratën e përafrimit me legjislacionin e BE-së të këtij Projektligji.</TEXT>
+<DATE>2017-03-11</DATE> 
+</DOC>

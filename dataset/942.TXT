@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO>942</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.com/sot-fillon-java-nderkombetare-e-parase/</URL>
+<TITLE>Sot fillon Java Ndërkombëtare e Parasë</TITLE>
+<TEXT>Qëllimi i shënimit të kësaj jave është të nxisë ndërgjegjësim më të gjerë dhe të kuptuarit mbi nevojën për arsimim më të mirë financiar dhe përmirësimin e edukimit financiar.
+Kemi kënaqësinë të ftojmë një përfaqësues nga institucioni juaj, përgjegjës të kësaj fushe, që të marrin pjesë në këtë organizim. Bashkëngjitur gjeni agjendën e ngjarjes.</TEXT>
+<DATE>2017-03-27</DATE> 
+</DOC>

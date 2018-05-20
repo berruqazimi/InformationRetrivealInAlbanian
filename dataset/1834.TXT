@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO>1834</DOCNO>
+<SOURCE>Telegrafi</SOURCE>
+<URL>https://telegrafi.com/qeveria-e-shba-ve-ka-humbur-2-5-miliarde-dollare-gjate-tregtise-bitcoin/</URL>
+<TITLE>Qeveria e SHBA-ve ka humbur 2.5 miliardë dollarë gjatë tregtisë me Bitcoin</TITLE>
+<TEXT>Në vitin 2013, sipas dokumenteve të Gjykatës Federale të Nju Jorkut, Qeveria amerikane konfiskoi 144,336 Bitcoin nga Ross William Ulbricht, themeluesi i “Silk Road”, rrjeti i zi në internetin Silk Road. Faqja e internetit “nëntokësore” u mbyll pas aktiviteteve të paligjshme.
+
+“Këto blerje përfshinin heroinë, kokainë, ekstazë dhe LSD, në mesin e drogave të tjera ilegale dhe u mbushën nga shitësit që besohej se ishin të vendosur në më shumë se 10 vende të ndryshme, përfshirë Shtetet e Bashkuara, Gjermaninë, Holandën, Kanadanë, Mbretërinë e Bashkuar, Spanjën, Irlandën, Italinë, Austrinë dhe Francën”, thanë dokumentet e gjykatës, përcjell Telegrafi.
+
+
+Por, katër vite më pas nga konfiskimi i kriptovalutës tashmë të famshme, Departamenti i Drejtësisë lëshoi një deklaratë se çfarë ndodhi me sasinë e monedhave.
+
+“Këto Bitcoin u shitën përfundimisht nga Shërbimi Marshall i Shteteve të Bashkuara në bazë të urdhëresës së Gjykatës për 48,238,116 dollarë”, theksonte njoftimi për shtyp i Departamentit të Drejtësisë.
+
+Kjo mund të tingëllojë si një shumë e madhe e parave, por rezulton se monedhat ishin shitur për një vlerë prej 334 dollarë secila. Me shitjen e Bitcoin në 17,300 dollarë në kohën e shkrimit të këtij artikulli, 144,336 Bitcoin vlerësohet me 2.5 miliardë dollarë dhe përbën rreth 1 për qind të tregut të saj. </TEXT>
+<DATE>2017-12-15</DATE> 
+</DOC>

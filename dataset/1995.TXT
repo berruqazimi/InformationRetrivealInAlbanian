@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO>1995</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.net/mot-befasues-na-pret-kete-vikend-temperaturat-do-te/</URL>
+<TITLE>Mot befasues na pret këtë vikend…Temperaturat do të…</TITLE>
+<TEXT>Sipas IHK-së, vranësirat gjatë ditës do të shoqërohen me reshje shiu dhe të shtunën do të fryjë erë nga juglindja me shpejtësi deri 8m/s.
+
+Të dielën vendi ynë do të ndikohet nga masat e ftohta të ajrit me origjinë nga veriu të cilat do të karakterizojnë një mot të vranët dhe me reshje shiu e bore. Temperaturat minimale do të lëvizin ndërmjet -2 deri 0 gradë Celsius, ndërsa maksimalet e ditës parashihet të lëvizin ndërmjet 2-4 gradë Celsius. Do të fryjë erë kryesisht nga verilindja me shpejtësi deri 7m/s.</TEXT>
+<DATE>2017-12-16</DATE> 
+</DOC>

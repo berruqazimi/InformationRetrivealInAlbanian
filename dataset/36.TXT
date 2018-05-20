@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO>36</DOCNO>
+<SOURCE>Telegrafi</SOURCE>
+<URL>http://telegrafi.com/zenke-ne-tetove-disa-te-lenduar/</URL>
+<TITLE>Zënkë në Tetovë disa të lënduar</TITLE>
+<TEXT>Para pak çastesh ka ndodhur një incident ndërmjet disa të rinjëve në qendër të Tetovës.
+Nga Spitali i Tetovës për portalin TetovaSot bëjnë të ditur se deri në këto momente ndihmë kanë kërkuar tre persona, ku njëri është goditur me thikë në këmbë, dhe dy të tjerë janë lënduar gjatë rrahjes.
+Ekipet e policisë kanë dalë në vend ngjarje dhe po hetojnë rastin. </TEXT>
+<DATE>2017-03-06</DATE> 
+</DOC>

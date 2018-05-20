@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO>670</DOCNO>
+<SOURCE>OraInfo</SOURCE>
+<URL>http://orainfo.com/ja-kur-te-mund-ta-blini-nokia-3310-te-ri/</URL>
+<TITLE>Ja kur do të mund ta blini Nokia 3310 të ri</TITLE>
+<TEXT>Telefonat e rinj, përfshirë Nokia 3310, do të dalin në treg nga mesi i muajit maj deri në fillim të qershorit.
+3310 do të kushtojë në vende të ndryshme varësisht nga taksat që i vihen HMD-së.
+Kompania po ashtu ka thënë se pret që Nokia të kthehet në top-treshe të gjigantëve të telefonave duke rivalizuar Apple-in, Samsungun dhe Huawein, raporton GSM Arena.</TEXT>
+<DATE>2017-03-22</DATE> 
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO>1966</DOCNO>
+<SOURCE>Telegrafi</SOURCE>
+<URL>https://telegrafi.com/vidhen-1-4-miliarde-fjalekalime/</URL>
+<TITLE>Vidhen 1.4 miliardë fjalëkalime</TITLE>
+<TEXT>Përdoruesit e internetit zakonin e ripërdorin të njëjtin fjalëkalim nëpër shërbime të ndryshme në internet dhe kështu i japin hakerëve mundësinë për të përdorur kredencialet e mbledhura nga një shkelje e të dhënave në një shërbim apo sistem për të thyer në llogaritë e tyre të tjera në internet.
+
+
+Hulumtuesit nga firma e sigurisë “4iQ” tani kanë zbuluar një bazë të dhënash të re kolektive në internetin e errët apo Dark Web, gjithashtu i lëshuar edhe në Torrent, përmban 1.4 miliardë emra përdoruesish dhe fjalëkalime në tekst të qartë, shkruan Telegrafi.
+
+Studiuesit thanë se arkivi i madh 41GB, përmban 1.4 miliardë kombinime të emrave të përdoruesve (username), emaile dhe fjalëkalime – të fragmentuara siç duhet dhe të renditura në dy dhe tre nivele të direktoriumeve.
+
+Baza e të dhënave kolektive përmban kredencialet e rrjedhura nga “Bitcoin”, “Pastebin”, “LinkedIn”, “MySpace”, “Netflix”, “Last.FM”, “Zoosk” dhe “Badoo”, “RedBox”, lojëra si “Minecraft” dhe “Runescape” dhe listat e kredencialeve si “Anti Public” dhe “Exploit.in”.</TEXT>
+<DATE>2017-12-16</DATE> 
+</DOC>
